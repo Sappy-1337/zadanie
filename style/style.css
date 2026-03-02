@@ -1,0 +1,39 @@
+nav{
+text-align: center;
+background-color: blueviolet;
+height: 20px;
+}
+body{
+    background-color: blanchedalmond;
+}
+img{
+    height: 250px;
+    width: 350px;
+}
+main{
+
+    text-align: left;
+    padding: 30px;
+    background-color: aqua;
+    width: 800px;
+    color: white;
+}
+h2{
+    background-color: purple;
+    text-align: center;
+    height: 30px;
+}
+h3{
+    background-color: blueviolet;
+    text-align: center;
+    height: 20px;
+}
+h4{
+
+    background-color: blueviolet;
+}
+button{
+height: 60px;
+width: 120px;
+
+}
